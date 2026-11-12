@@ -17,3 +17,5 @@ bash -n src/analiza.sh
 **Przeczytaj [`ZADANIA.md`](ZADANIA.md).** Zmieniaj pliki wyłącznie we własnym forku repozytorium.
 
 Wykonaj minimum **2 własne commity**, prześlij na własny fork (`git push`) i przekaż prowadzącemu **adres URL forka**. Nie otwieraj Pull Request do repozytorium prowadzącego — rozwiązanie pozostaje w Twoim forku.
+
+ups
