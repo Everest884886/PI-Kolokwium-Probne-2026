@@ -1,0 +1,5 @@
+INFO;A01;start
+ERROR;A02;brak sygnalu
+WARN;A03;niestabilnosc
+ERROR;A04;przerwa
+INFO;A05;stop

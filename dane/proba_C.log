@@ -1,0 +1,4 @@
+WARN;C01;temperatura
+INFO;C02;odczyt
+WARN;C03;zaklocenie
+INFO;C04;stop

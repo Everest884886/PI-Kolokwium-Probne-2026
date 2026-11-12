@@ -1,0 +1,4 @@
+INFO;B01;start
+WARN;B02;kalibracja
+ERROR;B03;blad odczytu
+INFO;B04;stop

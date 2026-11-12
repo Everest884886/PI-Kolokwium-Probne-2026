@@ -1,0 +1,5 @@
+# Pliki robocze (nie usuwać raportów ani archiwum wymaganych zadaniem)
+*~
+*.swp
+*.tmp
+.DS_Store
